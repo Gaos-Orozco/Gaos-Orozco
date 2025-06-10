@@ -56,24 +56,25 @@ Soy **Giovanny Orozco**, desarrollador especializado en construir soluciones só
   Plataforma para monitoreo de consumo de servicios públicos.  
   `Spring Boot`, `MongoDB`, `Chart.js`, `Power BI`
 
-- 📊 [**PowerBI-MongoConnector**](https://github.com/Gaos-Orozco/PowerBI-MongoConnector)  
-  Conector personalizado para visualizar datos desde MongoDB en Power BI.
-
 ---
 
-## 🧰 Tecnologías
+## 🧰 Tecnologías que uso
 
-### Backend:
-`Java`, `Spring Boot`, `Spring Security`, `JWT`, `REST API`, `Redis`, `Docker`
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="Spring Boot"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="Bootstrap"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git"/>
+  <img src="https://img.icons8.com/color/48/power-bi.png" height="40" alt="Power BI"/>
+  <img src="https://img.icons8.com/fluency/48/redis.png" height="40" alt="Redis"/>
+</p>
 
-### Frontend:
-`HTML`, `CSS`, `JavaScript`, `Bootstrap`, `Thymeleaf`, `Chart.js`
-
-### Base de Datos:
-`MongoDB`, `MySQL`
-
-### DevOps / Datos:
-`Docker`, `Maven`, `Power BI`, `Git`, `Postman`
 
 ---
 
