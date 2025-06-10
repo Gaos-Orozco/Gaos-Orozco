@@ -1,6 +1,6 @@
 <!-- Banner o imagen de portada -->
 <p align="center">
-  <img src="https://via.placeholder.com/1000x300?text=Tu+Banner+o+Logo+Personal" alt="banner" />
+  <img src="banner.png" alt="Banner de Giovanny Orozco" style="width:100%;"/>
 </p>
 
 <h1 align="center">👋 ¡Hola! Soy Giovanny Orozco</h1>
