@@ -61,7 +61,7 @@ Soy **Giovanny Orozco**, desarrollador especializado en construir soluciones só
 
 ## 📂 Repositorios destacados
 
-- 🔧 [**ServiApp**]([https://github.com/Gaos-Orozco/ServiApp](https://github.com/cdelriot1121/Spring.ClassroomProject-SERVIAPP))  
+- 🔧 [**ServiApp**](https://github.com/cdelriot1121/Spring.ClassroomProject-SERVIAPP)
   Plataforma para monitoreo de consumo de servicios públicos domiciliarios en Cartagena.  
   `Spring Boot`, `MongoDB`, `Chart.js`, `Power BI`
 
